@@ -49,6 +49,8 @@ git clone git://github.com/xdebug/xdebug.git
 ```shell
 phpize
 
+./configure
+
 make clean
 
 make
